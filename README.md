@@ -1,4 +1,4 @@
-# python_data_scraping# Data Scraping mit Python
+# Data Scraping mit Python
 
 In diesem Github Repository befinden sich Unterlagen zum Kurs *Data Scraping mit Python*.
 
