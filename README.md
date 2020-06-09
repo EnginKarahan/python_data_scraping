@@ -28,6 +28,6 @@ in deskriptiver und induktiver Statistik von Vorteil sind.
 
 ## Literatur zum Kurs
 
-- Downey, A. (2015). [Think Python](https://www.greenteapress.com/thinkpython/thinkpython.html): How to Think Like a Computer Scientist (2nd ed.).
+- Downey, A. (2015). [Think Python](https://greenteapress.com/wp/think-python-2e/): How to Think Like a Computer Scientist (2nd ed.).
 - Mitchell, R. (2018). [Web Scraping with Python](https://www.oreilly.com/library/view/web-scraping-with/9781491985564/) (2nd ed.).
 
