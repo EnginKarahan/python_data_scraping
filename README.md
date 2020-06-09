@@ -16,7 +16,7 @@ Data Scraping Projekte für sozialwissenschaftliche Forschung durchführen.
 
 ## Kursformat
 
-Die Kursinhalte werden überwiegend in Form von YouTube Videos vermittelt. Eine Playlist mit allen Videos ist hier verfügbar:
+Die Kursinhalte werden überwiegend in Form von YouTube Videos vermittelt. Hier findet sich eine Playlist mit allen Videos:
 https://www.youtube.com/playlist?list=PLVPBmDxTd7erX7c_o9BGCleD9UZKLyM0L
 
 ## Vorkenntnisse
