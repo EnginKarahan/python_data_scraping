@@ -1,6 +1,6 @@
 # Data Scraping mit Python
 
-In diesem Github Repository befinden sich Unterlagen zum Kurs *Data Scraping mit Python*. [Work in Progress! Es wird vermutlich noch bis Ende Juli 2020 dauern bis alle Kursinhalte verfügbar sind.]
+In diesem Github Repository befinden sich Unterlagen zum Kurs *Data Scraping mit Python*.
 
 ## Kursbeschreibung
 
