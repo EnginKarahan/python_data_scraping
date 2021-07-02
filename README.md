@@ -17,7 +17,7 @@ Data Scraping Projekte für Forschungszwecke durchführen.
 ## Kursformat
 
 Die Kursinhalte werden überwiegend in Form von YouTube Videos vermittelt. Hier findet sich eine Playlist mit allen Videos:
-https://www.youtube.com/playlist?list=PLVPBmDxTd7erX7c_o9BGCleD9UZKLyM0L
+https://www.youtube.com/playlist?list=PLOUDcX4dEZqx-pOVrV-kEvSwRVBmLAonL
 
 ## Vorkenntnisse
 
