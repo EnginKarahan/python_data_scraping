@@ -1,0 +1,16 @@
+{
+  "structured": {
+    "spreadsheets": "flat",
+    "json": "tree"
+  },
+  "unstructured": [
+    {
+      "type": "natural language",
+      "format": "txt"
+    },
+    {
+      "type": "image",
+      "format": "png"
+    }
+  ]
+}
