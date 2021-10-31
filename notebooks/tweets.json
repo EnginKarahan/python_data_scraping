@@ -1,0 +1,201 @@
+[
+  {
+    "created_at": "Thu Nov 28 09:00:39 +0000 2019",
+    "favorite_count": 283,
+    "full_text": "Reden wir offen ... über #openaccess! \nUnd zwar in unserer Podcast-Mini-Serie. In der ersten Folge spricht Radiomoderator Holger Klein mit der Chemikerin Mai Thi Nguyen-Kim @maithi_nk. Jetzt hier reinhören 🎧: https://t.co/aRRo23c0t0\n@wrint_de #BMBF #Wissenschaft #OA #podcast https://t.co/EzyqBc4WAK",
+    "hashtags": [
+      {
+        "text": "openaccess"
+      },
+      {
+        "text": "BMBF"
+      },
+      {
+        "text": "Wissenschaft"
+      },
+      {
+        "text": "OA"
+      },
+      {
+        "text": "podcast"
+      }
+    ],
+    "id": 1199976385621692416,
+    "id_str": "1199976385621692416",
+    "lang": "de",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/EzyqBc4WAK",
+        "expanded_url": "https://twitter.com/BMBF_Bund/status/1199976385621692416/photo/1",
+        "id": 1199976381893005314,
+        "media_url": "http://pbs.twimg.com/media/EKcsKV2XUAIvNj6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EKcsKV2XUAIvNj6.jpg",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 799,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1363,
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/EzyqBc4WAK"
+      }
+    ],
+    "retweet_count": 73,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "urls": [
+      {
+        "expanded_url": "http://ow.ly/xymW50xmNGj",
+        "url": "https://t.co/aRRo23c0t0"
+      }
+    ],
+    "user": {
+      "created_at": "Fri Jan 09 13:29:16 +0000 2015",
+      "default_profile": true,
+      "description": "Hier twittert die Social-Media-Redaktion des Bundesministeriums für Bildung und Forschung - https://t.co/UqNZkLfa5s",
+      "favourites_count": 3803,
+      "followers_count": 48480,
+      "friends_count": 650,
+      "geo_enabled": true,
+      "id": 2969727718,
+      "id_str": "2969727718",
+      "listed_count": 596,
+      "location": "Berlin",
+      "name": "BMBF",
+      "screen_name": "BMBF_Bund",
+      "statuses_count": 9852,
+      "url": "https://t.co/swEZR6KkpA",
+      "verified": true
+    },
+    "user_mentions": [
+      {
+        "id": 1094849342,
+        "id_str": "1094849342",
+        "name": "Mai Thi Nguyen-Kim",
+        "screen_name": "maithi_nk"
+      },
+      {
+        "id": 303342452,
+        "id_str": "303342452",
+        "name": "WRINT",
+        "screen_name": "wrint_de"
+      }
+    ]
+  },
+  {
+    "created_at": "Wed May 06 07:39:12 +0000 2020",
+    "favorite_count": 750,
+    "full_text": "In a little over 3 months, #COVID19 has changed the world in so many ways, bringing us closer together and reaffirming the importance of #HealthForAll.\nThis video shows the key moments so far as WHO works with partners worldwide to fight #coronavirus and save lives. https://t.co/oYQV4DPbxa",
+    "hashtags": [
+      {
+        "text": "COVID19"
+      },
+      {
+        "text": "HealthForAll"
+      },
+      {
+        "text": "coronavirus"
+      }
+    ],
+    "id": 1257937948424757248,
+    "id_str": "1257937948424757248",
+    "lang": "en",
+    "media": [
+      {
+        "display_url": "pic.twitter.com/oYQV4DPbxa",
+        "expanded_url": "https://twitter.com/WHO/status/1257937948424757248/video/1",
+        "id": 1257937273561190400,
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1257937273561190400/img/JvLTmXi97KVXwviA.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1257937273561190400/img/JvLTmXi97KVXwviA.jpg",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/oYQV4DPbxa",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 325600,
+          "variants": [
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1257937273561190400/vid/480x270/Qp6JiURxItBa9H6c.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1257937273561190400/vid/640x360/nqIWSKAqarkV9xRw.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1257937273561190400/pl/JUsDgAz2USLHj8JK.m3u8?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1257937273561190400/vid/1280x720/frWD4cpJVdQsBDDH.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ],
+    "retweet_count": 324,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "urls": [],
+    "user": {
+      "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+      "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+      "favourites_count": 10673,
+      "followers_count": 7692786,
+      "friends_count": 1719,
+      "geo_enabled": true,
+      "id": 14499829,
+      "id_str": "14499829",
+      "listed_count": 32284,
+      "location": "Geneva, Switzerland",
+      "name": "World Health Organization (WHO)",
+      "screen_name": "WHO",
+      "statuses_count": 50956,
+      "url": "https://t.co/wVulKuROWG",
+      "verified": true
+    },
+    "user_mentions": []
+  }
+]
