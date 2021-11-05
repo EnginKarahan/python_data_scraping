@@ -5,3 +5,8 @@
 .gitignore
 *.Rproj
 .gitattributes
+notebooks/uardian_articles_corona-parsed.json
+notebooks/guardian_articles_corona.json
+data/guardian_articles_corona/guardian_articles_corona.json
+data/guardian_corona_parsed/guardian_corona_parsed.json
+notebooks/uardian_articles_corona-parsed.json
